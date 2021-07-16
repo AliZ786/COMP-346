@@ -1,4 +1,4 @@
-package comp346pa1w2020;
+// package comp346pa1w2020;
 
 import java.util.Scanner;
 import java.io.FileInputStream;
@@ -17,7 +17,7 @@ import java.util.InputMismatchException;
  * @author Kerly Titus
  */
 
-public class Server {
+public class Server extends Thread{
   
 	int numberOfTransactions;         /* Number of transactions handled by the server */
 	int numberOfAccounts;             /* Number of accounts stored in the server */
@@ -315,9 +315,15 @@ public class Server {
     	System.out.println("\n DEBUG : Server.run() - starting server thread " + objNetwork.getServerConnectionStatus());
     	
     	/* Implement the code for the run method */
-
+    	serverStartTime = System.currentTimeMillis();
+    	processTransactions(trans);
+    	serverEndTime = System.currentTimeMillis();
+        
+    	// Disconnecting server from network
+    	objNetwork.disconnect(objNetwork.getServerIP());
+    	
         System.out.println("\n Terminating server thread - " + " Running time " + (serverEndTime - serverStartTime) + " milliseconds");
-           
+        
     }
 }
 
