@@ -1,4 +1,4 @@
-package comp346pa1w2020;
+// package comp346pa1w2020;
 
 import java.util.Scanner;
 import java.io.FileInputStream;
@@ -16,7 +16,7 @@ import java.util.InputMismatchException;
  * @author Kerly Titus
  */
 
-public class Client { 
+public class Client extends Thread{ 
     
     private static int numberOfTransactions;   		/* Number of transactions to process */
     private static int maxNbTransactions;      		/* Maximum number of transactions */
@@ -215,6 +215,8 @@ public class Client {
     	long sendClientStartTime, sendClientEndTime, receiveClientStartTime, receiveClientEndTime;
     
 	/* Implement the code for the run method */
-
+    sendClientStartTime = System.currentTimeMillis();
+    receiveClientStartTime = System.currentTimeMillis();
+    
     }
 }
