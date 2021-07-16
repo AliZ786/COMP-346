@@ -558,6 +558,13 @@ public class Network {
     	while (true)
     	{
 		/* Implement the code for the run method */
+            if(getClientConnectionStatus().equals("disconnected") && getServerConnectionStatus().equals("disconnected")){
+                System.out.println("\nTerminating server thread - Client " +getClientConnectionStatus()+ " Server " +getServerConnectionStatus());
+
+                return;
+            }else
+                Thread.yield();
+
     	}    
     }
 }
