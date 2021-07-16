@@ -1,4 +1,4 @@
-package comp346pa1w2020;
+// package comp346pa1w2020;
 
 /*
  * To change this license header, choose License Headers in Project Properties.
@@ -10,7 +10,7 @@ package comp346pa1w2020;
  *
  * @author Kerly Titus
  */
-public class Network {
+public class Network extends Thread{
     
     private static int maxNbPackets;                           /* Maximum number of simultaneous transactions handled by the network buffer */
     private static int inputIndexClient, inputIndexServer, outputIndexServer, outputIndexClient;                   /* Network buffer indices for accessing the input buffer (inputIndexClient, outputIndexServer) and output buffer (inputIndexServer, outputIndexClient) */
@@ -557,9 +557,10 @@ public class Network {
     	
     	while (true)
     	{
-		/* Implement the code for the run method */
+		
+    		/* Implement the code for the run method */
             if(getClientConnectionStatus().equals("disconnected") && getServerConnectionStatus().equals("disconnected")){
-                System.out.println("\nTerminating server thread - Client " +getClientConnectionStatus()+ " Server " +getServerConnectionStatus());
+            	System.out.println("\nTerminating server thread - Client " +getClientConnectionStatus()+ " Server " +getServerConnectionStatus());
 
                 return;
             }else
