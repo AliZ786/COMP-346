@@ -1,0 +1,446 @@
+
+ Activating the network ...
+
+ Initializing the server ...
+
+ Inializing the Accounts database ...
+
+ Connecting server to network ...
+
+ Initializing client sending application ...
+
+ Initializing the transactions ... 
+
+ Connecting client to network ...
+
+ Initializing client receiving application ...
+
+ DEBUG : Client.sendTransactions() - sending transaction on account 31718
+
+ DEBUG : Client.receiveTransactions() - receiving updated transaction on account  
+
+ DEBUG : Client.sendTransactions() - sending transaction on account 11528
+
+ DEBUG : Client.sendTransactions() - sending transaction on account 16783
+
+ DEBUG : Client.sendTransactions() - sending transaction on account 10538
+
+ DEBUG : Client.sendTransactions() - sending transaction on account 21O15
+
+ DEBUG : Client.sendTransactions() - sending transaction on account 61326
+
+ DEBUG : Client.sendTransactions() - sending transaction on account 82465
+
+ DEBUG : Client.sendTransactions() - sending transaction on account 31816
+
+ DEBUG : Client.sendTransactions() - sending transaction on account 73745
+
+ DEBUG : Client.sendTransactions() - sending transaction on account 81514
+
+ DEBUG : Client.sendTransactions() - sending transaction on account 92012
+
+ DEBUG : Client.sendTransactions() - sending transaction on account 52853
+
+ DEBUG : Client.sendTransactions() - sending transaction on account 41714
+
+ DEBUG : Client.sendTransactions() - sending transaction on account 58342
+
+ DEBUG : Client.sendTransactions() - sending transaction on account 62080
+
+ DEBUG : Client.sendTransactions() - sending transaction on account 81514
+
+ DEBUG : Client.sendTransactions() - sending transaction on account 21638
+
+ DEBUG : Client.sendTransactions() - sending transaction on account 52726
+
+ DEBUG : Client.sendTransactions() - sending transaction on account 91316
+
+ DEBUG : Client.sendTransactions() - sending transaction on account 60520
+
+ DEBUG : Client.sendTransactions() - sending transaction on account 41911
+
+ DEBUG : Client.sendTransactions() - sending transaction on account 39331
+
+ DEBUG : Client.sendTransactions() - sending transaction on account 91312
+
+ DEBUG : Client.sendTransactions() - sending transaction on account 15307
+
+ DEBUG : Client.sendTransactions() - sending transaction on account 51728
+
+ DEBUG : Client.sendTransactions() - sending transaction on account 60520
+
+ DEBUG : Client.sendTransactions() - sending transaction on account 43902
+
+ DEBUG : Client.sendTransactions() - sending transaction on account 52521
+
+ DEBUG : Client.sendTransactions() - sending transaction on account 31215
+
+ DEBUG : Client.sendTransactions() - sending transaction on account 22310
+
+ DEBUG : Client.sendTransactions() - sending transaction on account 41024
+
+ DEBUG : Client.sendTransactions() - sending transaction on account 38421
+
+ DEBUG : Client.sendTransactions() - sending transaction on account 70321
+
+ DEBUG : Client.sendTransactions() - sending transaction on account 12421
+
+ DEBUG : Client.sendTransactions() - sending transaction on account 82411
+
+ DEBUG : Client.sendTransactions() - sending transaction on account 22310
+
+ DEBUG : Client.sendTransactions() - sending transaction on account 21117
+
+ DEBUG : Client.sendTransactions() - sending transaction on account 00925
+
+ DEBUG : Client.sendTransactions() - sending transaction on account 31820
+
+ DEBUG : Client.sendTransactions() - sending transaction on account 91715
+
+ DEBUG : Client.sendTransactions() - sending transaction on account 32613
+
+ DEBUG : Client.sendTransactions() - sending transaction on account 13133
+
+ DEBUG : Client.sendTransactions() - sending transaction on account 43018
+
+ DEBUG : Client.sendTransactions() - sending transaction on account 91412
+
+ DEBUG : Client.sendTransactions() - sending transaction on account 11314
+
+ DEBUG : Client.sendTransactions() - sending transaction on account 91715
+
+ DEBUG : Client.sendTransactions() - sending transaction on account 00812
+
+ DEBUG : Client.sendTransactions() - sending transaction on account 61527
+
+ DEBUG : Client.sendTransactions() - sending transaction on account 43817
+
+ DEBUG : Client.sendTransactions() - sending transaction on account 92018
+
+ DEBUG : Client.sendTransactions() - sending transaction on account 92716
+
+ DEBUG : Client.sendTransactions() - sending transaction on account 01113
+
+ DEBUG : Client.sendTransactions() - sending transaction on account 60716
+
+ DEBUG : Client.sendTransactions() - sending transaction on account 01823
+
+ DEBUG : Client.sendTransactions() - sending transaction on account 13331
+
+ DEBUG : Client.sendTransactions() - sending transaction on account 92018
+
+ DEBUG : Client.sendTransactions() - sending transaction on account 81368
+
+ DEBUG : Client.sendTransactions() - sending transaction on account 91214
+
+ DEBUG : Client.sendTransactions() - sending transaction on account 91245
+
+ DEBUG : Client.sendTransactions() - sending transaction on account 42018
+
+ DEBUG : Client.sendTransactions() - sending transaction on account 01314
+
+ DEBUG : Client.sendTransactions() - sending transaction on account 20922
+
+ DEBUG : Client.sendTransactions() - sending transaction on account 21219
+
+ DEBUG : Client.sendTransactions() - sending transaction on account 83530
+
+ DEBUG : Client.sendTransactions() - sending transaction on account 83830
+
+ DEBUG : Client.sendTransactions() - sending transaction on account 42018
+
+ DEBUG : Client.sendTransactions() - sending transaction on account 72820
+
+ DEBUG : Client.sendTransactions() - sending transaction on account 92318
+
+ DEBUG : Client.sendTransactions() - sending transaction on account 42520
+
+ DEBUG : Client.sendTransactions() - sending transaction on account 61612
+
+ DEBUG : Client.sendTransactions() - sending transaction on account 61612
+
+ Terminating client sending thread - Running time 20 milliseconds
+
+ Account number   Account Balance 0.0 Message done
+
+ DEBUG : Client.receiveTransactions() - receiving updated transaction on account  
+
+ Account number   Account Balance 0.0 Message done
+
+ DEBUG : Client.receiveTransactions() - receiving updated transaction on account  
+
+ Account number   Account Balance 0.0 Message done
+
+ DEBUG : Client.receiveTransactions() - receiving updated transaction on account  
+
+ Account number   Account Balance 0.0 Message done
+
+ DEBUG : Client.receiveTransactions() - receiving updated transaction on account  
+
+ Account number   Account Balance 0.0 Message done
+
+ DEBUG : Client.receiveTransactions() - receiving updated transaction on account  
+
+ Account number   Account Balance 0.0 Message done
+
+ DEBUG : Client.receiveTransactions() - receiving updated transaction on account  
+
+ Account number   Account Balance 0.0 Message done
+
+ DEBUG : Client.receiveTransactions() - receiving updated transaction on account  
+
+ Account number   Account Balance 0.0 Message done
+
+ DEBUG : Client.receiveTransactions() - receiving updated transaction on account  
+
+ Account number   Account Balance 0.0 Message done
+
+ DEBUG : Client.receiveTransactions() - receiving updated transaction on account  
+
+ Account number   Account Balance 0.0 Message done
+
+ DEBUG : Client.receiveTransactions() - receiving updated transaction on account  
+
+ Account number   Account Balance 0.0 Message done
+
+ DEBUG : Client.receiveTransactions() - receiving updated transaction on account  
+
+ Account number   Account Balance 0.0 Message done
+
+ DEBUG : Client.receiveTransactions() - receiving updated transaction on account  
+
+ Account number   Account Balance 0.0 Message done
+
+ DEBUG : Client.receiveTransactions() - receiving updated transaction on account  
+
+ Account number   Account Balance 0.0 Message done
+
+ DEBUG : Client.receiveTransactions() - receiving updated transaction on account  
+
+ Account number   Account Balance 0.0 Message done
+
+ DEBUG : Client.receiveTransactions() - receiving updated transaction on account  
+
+ Account number   Account Balance 0.0 Message done
+
+ DEBUG : Client.receiveTransactions() - receiving updated transaction on account  
+
+ Account number   Account Balance 0.0 Message done
+
+ DEBUG : Client.receiveTransactions() - receiving updated transaction on account  
+
+ Account number   Account Balance 0.0 Message done
+
+ DEBUG : Client.receiveTransactions() - receiving updated transaction on account  
+
+ Account number   Account Balance 0.0 Message done
+
+ DEBUG : Client.receiveTransactions() - receiving updated transaction on account  
+
+ Account number   Account Balance 0.0 Message done
+
+ DEBUG : Client.receiveTransactions() - receiving updated transaction on account  
+
+ Account number   Account Balance 0.0 Message done
+
+ DEBUG : Client.receiveTransactions() - receiving updated transaction on account  
+
+ Account number   Account Balance 0.0 Message done
+
+ DEBUG : Client.receiveTransactions() - receiving updated transaction on account  
+
+ Account number   Account Balance 0.0 Message done
+
+ DEBUG : Client.receiveTransactions() - receiving updated transaction on account  
+
+ Account number   Account Balance 0.0 Message done
+
+ DEBUG : Client.receiveTransactions() - receiving updated transaction on account  
+
+ Account number   Account Balance 0.0 Message done
+
+ DEBUG : Client.receiveTransactions() - receiving updated transaction on account  
+
+ Account number   Account Balance 0.0 Message done
+
+ DEBUG : Client.receiveTransactions() - receiving updated transaction on account  
+
+ Account number   Account Balance 0.0 Message done
+
+ DEBUG : Client.receiveTransactions() - receiving updated transaction on account  
+
+ Account number   Account Balance 0.0 Message done
+
+ DEBUG : Client.receiveTransactions() - receiving updated transaction on account  
+
+ Account number   Account Balance 0.0 Message done
+
+ DEBUG : Client.receiveTransactions() - receiving updated transaction on account  
+
+ Account number   Account Balance 0.0 Message done
+
+ DEBUG : Client.receiveTransactions() - receiving updated transaction on account  
+
+ Account number   Account Balance 0.0 Message done
+
+ DEBUG : Client.receiveTransactions() - receiving updated transaction on account  
+
+ Account number   Account Balance 0.0 Message done
+
+ DEBUG : Client.receiveTransactions() - receiving updated transaction on account  
+
+ Account number   Account Balance 0.0 Message done
+
+ DEBUG : Client.receiveTransactions() - receiving updated transaction on account  
+
+ Account number   Account Balance 0.0 Message done
+
+ DEBUG : Client.receiveTransactions() - receiving updated transaction on account  
+
+ Account number   Account Balance 0.0 Message done
+
+ DEBUG : Client.receiveTransactions() - receiving updated transaction on account  
+
+ Account number   Account Balance 0.0 Message done
+
+ DEBUG : Client.receiveTransactions() - receiving updated transaction on account  
+
+ Account number   Account Balance 0.0 Message done
+
+ DEBUG : Client.receiveTransactions() - receiving updated transaction on account  
+
+ Account number   Account Balance 0.0 Message done
+
+ DEBUG : Client.receiveTransactions() - receiving updated transaction on account  
+
+ Account number   Account Balance 0.0 Message done
+
+ DEBUG : Client.receiveTransactions() - receiving updated transaction on account  
+
+ Account number   Account Balance 0.0 Message done
+
+ DEBUG : Client.receiveTransactions() - receiving updated transaction on account  
+
+ Account number   Account Balance 0.0 Message done
+
+ DEBUG : Client.receiveTransactions() - receiving updated transaction on account  
+
+ Account number   Account Balance 0.0 Message done
+
+ DEBUG : Client.receiveTransactions() - receiving updated transaction on account  
+
+ Account number   Account Balance 0.0 Message done
+
+ DEBUG : Client.receiveTransactions() - receiving updated transaction on account  
+
+ Account number   Account Balance 0.0 Message done
+
+ DEBUG : Client.receiveTransactions() - receiving updated transaction on account  
+
+ Account number   Account Balance 0.0 Message done
+
+ DEBUG : Client.receiveTransactions() - receiving updated transaction on account  
+
+ Account number   Account Balance 0.0 Message done
+
+ DEBUG : Client.receiveTransactions() - receiving updated transaction on account  
+
+ Account number   Account Balance 0.0 Message done
+
+ DEBUG : Client.receiveTransactions() - receiving updated transaction on account  
+
+ Account number   Account Balance 0.0 Message done
+
+ DEBUG : Client.receiveTransactions() - receiving updated transaction on account  
+
+ Account number   Account Balance 0.0 Message done
+
+ DEBUG : Client.receiveTransactions() - receiving updated transaction on account  
+
+ Account number   Account Balance 0.0 Message done
+
+ DEBUG : Client.receiveTransactions() - receiving updated transaction on account  
+
+ Account number   Account Balance 0.0 Message done
+
+ DEBUG : Client.receiveTransactions() - receiving updated transaction on account  
+
+ Account number   Account Balance 0.0 Message done
+
+ DEBUG : Client.receiveTransactions() - receiving updated transaction on account  
+
+ Account number   Account Balance 0.0 Message done
+
+ DEBUG : Client.receiveTransactions() - receiving updated transaction on account  
+
+ Account number   Account Balance 0.0 Message done
+
+ DEBUG : Client.receiveTransactions() - receiving updated transaction on account  
+
+ Account number   Account Balance 0.0 Message done
+
+ DEBUG : Client.receiveTransactions() - receiving updated transaction on account  
+
+ Account number   Account Balance 0.0 Message done
+
+ DEBUG : Client.receiveTransactions() - receiving updated transaction on account  
+
+ Account number   Account Balance 0.0 Message done
+
+ DEBUG : Client.receiveTransactions() - receiving updated transaction on account  
+
+ Account number   Account Balance 0.0 Message done
+
+ DEBUG : Client.receiveTransactions() - receiving updated transaction on account  
+
+ Account number   Account Balance 0.0 Message done
+
+ DEBUG : Client.receiveTransactions() - receiving updated transaction on account  
+
+ Account number   Account Balance 0.0 Message done
+
+ DEBUG : Client.receiveTransactions() - receiving updated transaction on account  
+
+ Account number   Account Balance 0.0 Message done
+
+ DEBUG : Client.receiveTransactions() - receiving updated transaction on account  
+
+ Account number   Account Balance 0.0 Message done
+
+ DEBUG : Client.receiveTransactions() - receiving updated transaction on account  
+
+ Account number   Account Balance 0.0 Message done
+
+ DEBUG : Client.receiveTransactions() - receiving updated transaction on account  
+
+ Account number   Account Balance 0.0 Message done
+
+ DEBUG : Client.receiveTransactions() - receiving updated transaction on account  
+
+ Account number   Account Balance 0.0 Message done
+
+ DEBUG : Client.receiveTransactions() - receiving updated transaction on account  
+
+ Account number   Account Balance 0.0 Message done
+
+ DEBUG : Client.receiveTransactions() - receiving updated transaction on account  
+
+ Account number   Account Balance 0.0 Message done
+
+ DEBUG : Client.receiveTransactions() - receiving updated transaction on account  
+
+ Account number   Account Balance 0.0 Message done
+
+ DEBUG : Client.receiveTransactions() - receiving updated transaction on account  
+
+ Account number   Account Balance 0.0 Message done
+
+ DEBUG : Client.receiveTransactions() - receiving updated transaction on account  
+
+ Account number   Account Balance 0.0 Message done
+
+ DEBUG : Client.receiveTransactions() - receiving updated transaction on account  
+
+ Account number   Account Balance 0.0 Message done
+
+ Terminating client receiving thread - Running time 45 milliseconds
